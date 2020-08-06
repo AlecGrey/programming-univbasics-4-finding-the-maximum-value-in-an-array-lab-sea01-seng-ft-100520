@@ -5,5 +5,6 @@ def find_max_value(array)
       max = n
     end
   end
+  max
 end
 
